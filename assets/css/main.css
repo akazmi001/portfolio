@@ -1273,3 +1273,8 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+.github {
+  color: white; /* or any color that contrasts your background */
+  text-decoration: none;
+  margin: 10px;
+}
